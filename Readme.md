@@ -15,7 +15,7 @@ There are 3 parts in this assignment. All are required before the deadline.
 We take Academic Integrity (AI) very seriously at UCSD. Before beginning the assignment please fill out the [AI form](https://forms.gle/nUCQvvXJPiM9AcBv9). **You must fill this out in order to recieve points for any assignments.**
 
 ## Part 2: Technology Access Survey [1 point]
-Please fill out this [Technology Access Survey](https://canvas.ucsd.edu/courses/47481/quizzes/144571) on Canvas to help us understand the background and goals of the students in this course and meet the new financial aid requirement.
+Please fill out this [Technology Access Survey](https://canvas.ucsd.edu/courses/57084/quizzes/179991) on Canvas to help us understand the background and goals of the students in this course and meet the new financial aid requirement.
 
 
 ## Part 3: Grade Calculator [98 points]
