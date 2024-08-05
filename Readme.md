@@ -1,5 +1,5 @@
-# CSE 11 Summer Session 2024 PA1 - Grade Calculator
-**Due date: Sunday, July 7th @ 11:59PM PDT**
+# CSE 11 Summer Session II 2024 PA1 - Grade Calculator
+**Due date: Sunday, August 11th @ 11:59PM PDT**
 
 ## Goal:
 Programming Assignment 1 is an introduction to Java programming. In this PA, you will get exposure to primitive data types, variables, keyboard input, console output, if-else logic, and loops. 
@@ -26,7 +26,7 @@ Write a program called `GradeCalculator` that
 - outputs the overall score and its corresponding letter grade
 
 ### Setup
-Please follow [our tutorial](https://docs.google.com/document/d/1ez7bAXQlkXZTFZ1LAe7m-hiiWEuvdHb47kO1fJgVP7Y/edit) to have Java 17 installed on your machine in order to complete this assignment. Additionally, familiarize yourself with some bash commands (optional):
+Please follow the instructions in the recording **vscode and java setup**  to have Java 17 installed on your machine in order to complete this assignment. Additionally, familiarize yourself with some bash commands (optional):
 - Essential Commands: https://www.hongkiat.com/blog/web-designers-essential-command-lines/
 - Unix reference sheet: https://files.fosswire.com/2007/08/fwunixref.pdf
 
@@ -41,7 +41,7 @@ There are a few restrictions on the implementation.
 - You should not use `System.exit`. Doing so will cause Autograder to throw exceptions and you'll get "EXCEPT" for all of your test cases.
 - You should not print any prompt (e.g. “please enter your score”).
 
-To get started on this PA, follow Section 3 in the [instructions](https://docs.google.com/document/d/1ez7bAXQlkXZTFZ1LAe7m-hiiWEuvdHb47kO1fJgVP7Y/edit) again but create a folder for "PA1" at the location of your choice and open that folder in Visual Studio Code (VS Code). Then create a class named `GradeCalculator` with a `main` method and save it as `GradeCalculator.java`.
+To get started on this PA, create a folder for "PA1" at the location of your choice and open that folder in Visual Studio Code (VS Code). Then create a class named `GradeCalculator` with a `main` method and save it as `GradeCalculator.java`.
 
 #### Input
 
@@ -154,7 +154,7 @@ Write the output to the standard output, which prints the overall score in the f
 Try the example inputs described above. Do you get the same results as their corresponding outputs? Now try some of your own inputs, do you get the results you would expect?
 
 ## Submission
-Submit all of the following files to Gradescope by **Sunday, July 7 @ 11:59PM PDT**.
+Submit all of the following files to Gradescope by **Sunday, August 11 @ 11:59PM PDT**.
  - `GradeCalculator.java`
 
 
